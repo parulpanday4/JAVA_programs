@@ -11,6 +11,7 @@ class SC extends AbstractacExample{
     {
         SC obj = new SC();
         obj.run();
+        //hello 
     }
 }
 //Example
